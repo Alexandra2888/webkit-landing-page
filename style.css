@@ -282,7 +282,7 @@ body {
         max-width: 39.6875rem;
         margin-bottom: 0.46em;
         color: var(--clr-neutral-100);
-        font-size: var(--fs-11000);
+        font-size: var(--fs-1100);
     }
 
     .hero__cta {
