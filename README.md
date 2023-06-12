@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://workit-landing-page28.netlify.app/)
+- Live Site URL: [https://workit-landing-page28.netlify.app/]
 
 
 ### Built with
