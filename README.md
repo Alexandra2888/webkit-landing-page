@@ -46,10 +46,10 @@ Users should be able to:
 
 - Frontend Mentor - [@Alexandra2888](https://www.frontendmentor.io/profile/Alexandra2888)
 
+![iPad-1696096609243](https://github.com/Alexandra2888/workit-landing-page/assets/76844097/40b34e59-d40a-43a8-8c8a-9f28fe132898)
 
 
 
-![iPad-1696096559533](https://github.com/Alexandra2888/workit-landing-page/assets/76844097/109dbc50-847f-4790-8b78-f8794f14f6d8)
 
 
 
