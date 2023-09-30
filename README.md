@@ -49,6 +49,7 @@ Users should be able to:
 
 
 
+![iPad-1696096559533](https://github.com/Alexandra2888/workit-landing-page/assets/76844097/109dbc50-847f-4790-8b78-f8794f14f6d8)
 
 
 
